@@ -3,13 +3,13 @@
 R
 
 .nav__logo-name
-Rian Lot.
+Amit Lot.
 
 .nav__title
 Menu
 
 .nav__name
-Rian
+Amit
 
 .nav__link
 Home - About Me - Projects - Contact Me
@@ -17,7 +17,7 @@ Home - About Me - Projects - Contact Me
 
 ========== HOME ==========
 .home__name
-Rian Lot
+Amit Lot
 
 .home__social-link
 https://www.instagram.com/
@@ -25,9 +25,8 @@ https://www.linkedin.com/
 https://github.com/
 
 .home__description
-<b>Frontend Developer</b>, with knowledge in web 
-development and design, I offer the best 
-projects resulting in quality work.
+<b>Backend Developer</b>, With a strong background in web development and design, 
+my expertise lies in crafting robust backend solutions that deliver top-notch performance and reliability.
 
 .home__scroll-text
 Scroll Down
@@ -38,10 +37,10 @@ Scroll Down
 About Me.
 
 .about__description
-Passionate about creating <b>Web Pages</b> with 
-<b>UI/UX User Interface</b>, I have years of 
-experience and many clients are happy with 
-the projects carried out.
+I specialize in creating high-quality projects that excel in functionality and efficiency, 
+ensuring seamless integration and optimal server-side operations. 
+My focus on backend development ensures that every project is built on a solid foundation, 
+with a keen eye for optimizing database structures and enhancing overall system functionality.
 
 .about__item
 <b>My Skills Are:</b> HTML, CSS, JavaScript, 
